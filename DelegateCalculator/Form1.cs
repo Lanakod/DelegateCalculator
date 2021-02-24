@@ -152,9 +152,9 @@ namespace DelegateCalculator
 
         private void button_clear_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text.Length > 0)
+            CountReset();
+            if (textBox1.Text.Length > 0)
             {
-                CountReset();
                 if (textBox1.Text[textBox1.Text.Length - 1] == ' ')
                 {
                     textBox1.Text = textBox1.Text.Remove(textBox1.Text.Length - 1);
