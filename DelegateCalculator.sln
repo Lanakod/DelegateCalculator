@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateCalculator", "DelegateCalculator\DelegateCalculator.csproj", "{78B2F6DB-6E41-4B67-AAB7-E9DACFC5C7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B2F6DB-6E41-4B67-AAB7-E9DACFC5C7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B2F6DB-6E41-4B67-AAB7-E9DACFC5C7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B2F6DB-6E41-4B67-AAB7-E9DACFC5C7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B2F6DB-6E41-4B67-AAB7-E9DACFC5C7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7165BA52-F6D2-47AF-99F2-22CF822E54E7}
+	EndGlobalSection
+EndGlobal

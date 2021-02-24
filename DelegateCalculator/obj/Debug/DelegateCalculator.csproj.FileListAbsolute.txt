@@ -1,0 +1,10 @@
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\bin\Debug\DelegateCalculator.exe.config
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\bin\Debug\DelegateCalculator.exe
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\bin\Debug\DelegateCalculator.pdb
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.csprojAssemblyReference.cache
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.Form1.resources
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.Properties.Resources.resources
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.csproj.GenerateResource.cache
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.exe
+C:\Users\lanak\source\repos\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.pdb
